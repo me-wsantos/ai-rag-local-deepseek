@@ -1,0 +1,41 @@
+Perguntas e Respostas sobre Inteligência Artificial
+
+1. O que é Inteligência Artificial?
+
+A Inteligência Artificial é um ramo da ciência da computação focado na criação de sistemas que podem realizar tarefas que normalmente requerem inteligência humana, como reconhecimento de fala, tomada de decisão, tradução de idiomas e visão computacional.
+
+2. Quais são os principais tipos de IA?
+
+Existem três tipos principais de IA: IA fraca ou estreita, que é projetada para uma tarefa específica; IA geral, que pode realizar qualquer tarefa cognitiva que um humano possa; e IA superinteligente, que supera a inteligência humana em todas as dimensões, embora esta última ainda seja teórica.
+
+3. O que é Aprendizado de Máquina?
+
+Aprendizado de Máquina é um subcampo da IA que envolve a criação de algoritmos que permitem que um sistema melhore automaticamente através da experiência e do uso de dados, sem ser explicitamente programado para cada tarefa.
+
+4. Qual a diferença entre IA e Aprendizado Profundo?
+
+Aprendizado Profundo é uma subcategoria do Aprendizado de Máquina que usa redes neurais artificiais com muitas camadas (profundidade) para modelar padrões complexos em grandes volumes de dados. IA é um campo mais amplo, que inclui também outras abordagens além do aprendizado de máquina.
+
+5. Como a IA está sendo utilizada atualmente?
+
+A IA é utilizada em diversas áreas, incluindo saúde (diagnósticos, robôs cirúrgicos), finanças (previsões de mercado, detecção de fraudes), atendimento ao cliente (chatbots), indústria automotiva (veículos autônomos) e muitos outros setores.
+
+6. Quais são os desafios éticos associados à IA?
+
+Os desafios éticos incluem privacidade de dados, viés algorítmico, perda de empregos, uso em armas autônomas e a importância de garantir que sistemas de IA ajam de maneira responsável e segura.
+
+7. O que é um Chatbot?
+
+Um chatbot é um programa de inteligência artificial que simula conversas humanas em linguagem natural. Eles são amplamente utilizados em serviços de atendimento ao cliente para responder a perguntas e resolver problemas básicos.
+
+8. Quais são os benefícios da IA?
+
+Entre os benefícios da IA estão a automação de tarefas repetitivas, aumento da eficiência e produtividade, melhorias em processos de decisão por meio de análise de dados, e capacidade de inovação em produtos e serviços.
+
+9. O que são Redes Neurais Artificiais?
+
+Redes Neurais Artificiais são modelos computacionais inspirados na estrutura do cérebro humano, projetados para reconhecer padrões e aprender a partir de dados. Elas são a base do Aprendizado Profundo.
+
+10. Qual é o futuro da Inteligência Artificial?
+
+O futuro da IA pode envolver avanços em IA geral, melhor integração com a sociedade humana, uso ético mais robusto, e a criação de sistemas inteligentes que podem ajudar a resolver problemas globais complexos, como mudanças climáticas e doenças.

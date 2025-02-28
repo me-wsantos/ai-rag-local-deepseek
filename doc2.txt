@@ -1,0 +1,41 @@
+Perguntas e Respostas sobre Gerenciamento de Projetos
+
+1. O que é gerenciamento de projetos?
+
+Gerenciamento de projetos é a aplicação de conhecimentos, habilidades, ferramentas e técnicas para planejar, executar e finalizar projetos de forma eficaz, atendendo aos requisitos e objetivos previamente estabelecidos.
+
+2. Quais são as fases principais de um projeto?
+
+As fases principais de um projeto geralmente incluem: iniciação, planejamento, execução, monitoramento e controle, e encerramento.
+
+3. Qual é o papel de um gerente de projetos?
+
+O gerente de projetos é responsável por liderar a equipe do projeto, garantir que os objetivos do projeto sejam alcançados dentro do prazo, orçamento e escopo estabelecidos, e comunicar-se eficientemente com todas as partes interessadas.
+
+4. Quais são algumas das principais metodologias de gerenciamento de projetos?
+
+As metodologias populares incluem Agile, Scrum, Waterfall, Prince2 e Kanban. Cada uma tem suas próprias peculiaridades, oferecendo diferentes abordagens para planejamento e execução.
+
+5. O que é uma EAP (Estrutura Analítica do Projeto)?
+
+A EAP, ou Estrutura Analítica do Projeto, é uma decomposição hierárquica do escopo do projeto em entregas menores e mais gerenciáveis. Ela ajuda no planejamento, organização e controle do projeto.
+
+6. Como são definidos os riscos em um projeto e como gerenciá-los?
+
+Os riscos em um projeto são eventos ou condições incertas que, se ocorrerem, podem afetar o projeto. O gerenciamento de risco envolve identificar, analisar e responder a esses riscos para minimizar seus impactos.
+
+7. O que é o cronograma do projeto?
+
+O cronograma do projeto é um plano que especifica quando e em que ordem as atividades do projeto serão realizadas. Ele é crucial para garantir que o projeto seja concluído no tempo certo.
+
+8. Qual é a importância da comunicação em projetos?
+
+A comunicação eficaz é crucial para o sucesso de qualquer projeto, pois garante que todos os membros da equipe e partes interessadas estejam informados, alinhados e engajados no progresso do projeto.
+
+9. O que é a técnica do caminho crítico?
+
+A técnica do caminho crítico é uma ferramenta de gerenciamento de projetos que identifica as atividades mais longas e obrigatórias no projeto, ajudando a determinar a duração total mais curta possível para a conclusão do projeto.
+
+10. Como o sucesso de um projeto é medido?
+
+O sucesso de um projeto é geralmente medido com base na entrega das entregas dentro do prazo, escopo e orçamento, além do grau de satisfação das partes interessadas e o impacto positivo gerado.
