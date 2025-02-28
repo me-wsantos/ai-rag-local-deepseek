@@ -31,17 +31,17 @@ App para consulta de documentos usando RAG - Retrieval-Augmented Generation.
 
 ### Comandos Sqlite
 
-# Executar sqlite
+##### Executar sqlite
 entrar no diretório chroma_db e digitar o comando:
 `sqlite3 chroma.sqlite3`
 
-# listar tables
+##### listar tables
 	`.tables`
 
-# listar collections
+##### listar collections
 	`select * from collections;`
 
-# listar embeddings
+##### listar embeddings
 	`select * from embeddings;`
 
 ### :technologist: Autor
